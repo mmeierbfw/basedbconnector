@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.292,C:\Users\jovani\Documents\Embarcadero\Studio\Projekte\dbconnector\udbconnector.dfm=C:\Users\jovani\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.498,=C:\Users\jovani\Documents\Embarcadero\Studio\Projekte\scanohnethread\uConstants.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.292,C:\Users\jovani\Documents\Embarcadero\Studio\Projekte\dbconnector\udbconnector.pas=C:\Users\jovani\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,C:\Users\jovani\Documents\Embarcadero\Studio\Projekte\dbconnector\dbconnector.dproj=C:\Users\jovani\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.647,=C:\Users\jovani\Documents\Embarcadero\Studio\Projekte\scan2708\uConstants.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.435,=C:\Users\jovani\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,=C:\Users\jovani\Documents\Embarcadero\Studio\Projekte\sources2208\uutils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\jovani\Documents\Embarcadero\Studio\Projekte\scan2708\uConstants.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.053,=C:\Users\jovani\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
